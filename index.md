@@ -2,20 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Introduction
+Hi!
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+I am Thien, a Vietnamese student currently studying at Nguyen Tri Phuong Secondary School and have a huge love for open-source software, especially for Linux Distributions. Currently, I am going to work as an intern at 3S Hue Intersoft. I have got 3-year using various Linux Distributions. I wish to get an extra job in Java development.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+I like reading books, especially self-taught books like "The Power of Subconcious Mind", written by Joseph Murphy. Besides, I often go jogging every weekend because sitting in a long time coding is not good for my health.
 
 ### Category Name 2
 
