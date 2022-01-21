@@ -9,19 +9,15 @@ I am Thien, a Vietnamese student currently studying at Nguyen Tri Phuong Seconda
 
 I like reading books, especially self-taught books like "The Power of Subconcious Mind", written by Joseph Murphy. Besides, I often go jogging every weekend because sitting in a long time coding is not good for my health.
 
-### Category Name 2
+### Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+- [Hydro OS](https://github.com/nguyenntdev/HydroOS)
+- [Software tools](https://github.com/nguyenntdev/software-tools)
+- [Kode projects archive](https://github.com/nguyenntdev/kode-projects-archive)
+- [Kode Static Web](https://github.com/kodestudio/kodestudio.github.io)
+- (Upcoming) PeanutOS
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+
+
